@@ -1,0 +1,23 @@
+/*Estructura HTML básica: Comenzamos con la declaración DOCTYPE y los elementos html, head y body que forman la base de cualquier documento HTML.
+
+Metadatos: En el head colocamos metadatos importantes como el charset (para caracteres especiales) y la etiqueta viewport (para diseño responsive).
+
+Reset CSS: Aplicamos un reset básico para eliminar los estilos por defecto que aplican los navegadores y establecer box-sizing: border-box para un mejor control de los tamaños.
+
+Estilos generales: Definimos la fuente, colores y espaciado base para todo el documento.
+
+Sistema de contenedores: Creamos una clase .container que centrará y limitará el ancho de nuestro contenido.
+
+Header: Estilizamos el encabezado con un fondo oscuro y un borde inferior rojo como acento.
+
+Barra de navegación: Usamos Flexbox para crear una navegación flexible que se adapte a diferentes tamaños de pantalla.
+
+Menú de navegación: Convertimos la lista tradicional en un menú horizontal con estilos modernos.
+
+Efectos interactivos: Añadimos una transición suave para el efecto hover en los enlaces.
+
+Contenido principal: Estilizamos el área main con un padding adecuado y una altura mínima.
+
+Footer: Creamos un pie de página coherente con el diseño del encabezado.
+
+Estructura semántica: Utilizamos elementos HTML5 como header, nav, main y footer para mejorar la accesibilidad y SEO.
